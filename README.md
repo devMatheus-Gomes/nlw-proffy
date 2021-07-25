@@ -1,35 +1,31 @@
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+   <a href="#rocket-technologies">Technologies</a>   |
+   <a href="#-project">Project</a>   |
+   <a href="#-layout">Layout</a>   |
+   <a href="#memo-licença">License</a>
+ </p>
 
 
-## 🚀 Tecnologias
+ ## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+ This project was developed with the following technologies:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+ - [Node.js](https://nodejs.org/en/)
+ - [React](https://reactjs.org)
+ - [React Native](https://facebook.github.io/react-native/)
+ - [Expo](https://expo.io/)
 
-## 💻 Projeto
+ ## 💻 Project
 
-O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
+ Profffy is an online study platform that helps people find teachers online.
 
-## 🔖 Layout
+ ## 🔖 Layout
 
-Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+ In the links below you can find the layout of the web and mobile project.  Remembering that you need to have an account on [Figma](http://figma.com/) to access it.
 
-- [Layout Web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
-- [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
+ - [Web Layout](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
+ - [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
 
-## :memo: Licença
+ ## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+ This project is under the MIT license.  See the [LICENSE](LICENSE.md) file for more details.
