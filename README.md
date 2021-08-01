@@ -50,7 +50,4 @@ $ yarn start
 $ npm run start
 
 ```
-See my Linkedin: [Matheus Gomes](https://www.linkedin.com/in/devMAtheus-Gomes/)
-
-
-Translated with www.DeepL.com/Translator (free version)
+See my Linkedin: [Matheus Gomes](https://www.linkedin.com/in/devMatheus-Gomes/)
