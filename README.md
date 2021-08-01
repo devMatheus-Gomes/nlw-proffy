@@ -1,11 +1,5 @@
 <h1 style="text-align: center; font-weight: bold;">Proffy com Theme Switcher</h1>
 
-## Demo 📸
-
-<div align="center" >
-  <img src="./github/GifWeb.gif" alt="demo-web" height="425">
-</div>
-
 ---
 
 ## Sobre o Projeto
@@ -15,9 +9,6 @@ Esta aplicação fornece tudo o que é necessário para organizar as aulas entre
 Os professores podem escolher o melhor horário disponível para eles.
 
 Os alunos podem ver todos os professores disponíveis, filtrando por dia da semana, horário e matéria.
-
-Para ver o **App Mobile**, clique aqui: [Proffy Mobile](https://github.com/ARTHURPC03/Proffy-Mobile) <br />
-Para ver o **Server**, clique aqui: [Proffy API](https://github.com/ARTHURPC03/Proffy-API)
 
 ### 🛠 Tecnologias
 
@@ -43,7 +34,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ARTHURPC03/Proffy
+$ git clone https://github.com/devMatheus-Gomes/nlw-proffy.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Proffy
@@ -59,13 +50,4 @@ $ yarn start
 $ npm run start
 
 ```
-
-<a href="https://www.youtube.com/c/arthurpc">
-<img src="./github/youtube.png" alt="youtube" height="50"></a>
-<a href="https://www.linkedin.com/in/arthurpc03/">
-<img src="./github/linkedin.png" alt="linkedin" height="50"></a>
-<br />
-
-Veja meu canal no Youtube: [ARTHUR PC](https://www.youtube.com/c/arthurpc)
-
-Veja meu Linkedin: [ARTHUR PC](https://www.linkedin.com/in/arthurpc03/)
+Veja meu Linkedin: [Matheus Gomes](https://www.linkedin.com/in/devMAtheus-Gomes/)
