@@ -1,18 +1,18 @@
-<h1 style="text-align: center; font-weight: bold;">Proffy com Theme Switcher</h1>
+<h1 style="text-align: center; font-weight: bold;">Proffy with Theme Switcher</h1>
 
 ---
 
-## Sobre o Projeto
+## About the Project
 
-Esta aplicação fornece tudo o que é necessário para organizar as aulas entre os professores e os alunos.
+This application provides everything needed to organize lessons between teachers and students.
 
-Os professores podem escolher o melhor horário disponível para eles.
+Teachers can choose the best schedule available for them.
 
-Os alunos podem ver todos os professores disponíveis, filtrando por dia da semana, horário e matéria.
+Students can see all available teachers, filtering by day of the week, time and subject.
 
-### 🛠 Tecnologias
+### 🛠 Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://pt-br.reactjs.org/)
@@ -24,30 +24,33 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Router Dom](https://reactrouter.com/web/guides/quick-start)
 - [React Switch](https://www.npmjs.com/package/react-switch)
 ---
-### Pré-requisitos
+### Prerequisites
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Before you begin, you will need to have the following tools installed on your machine:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+In addition it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Web
+### 🎲 Running the Web
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/devMatheus-Gomes/nlw-proffy.git
 
-# Acesse a pasta do projeto no terminal/cmd
+# Go to the project folder in terminal/cmd
 $ cd Proffy
 
-# Instale as dependências
+# Install the dependencies
 $ yarn
-# ou
+# or
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ yarn start
-# ou
+# or
 $ npm run start
 
 ```
-Veja meu Linkedin: [Matheus Gomes](https://www.linkedin.com/in/devMAtheus-Gomes/)
+See my Linkedin: [Matheus Gomes](https://www.linkedin.com/in/devMAtheus-Gomes/)
+
+
+Translated with www.DeepL.com/Translator (free version)
