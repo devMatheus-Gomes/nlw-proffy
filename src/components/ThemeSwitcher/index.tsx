@@ -8,6 +8,9 @@ interface Props {
   toggleTheme(): void
 }
 
+// -------------------------------------------------
+// Export Function
+// -------------------------------------------------
 const ThemeSwitcher: React.FC<Props> = ({ toggleTheme }: any) => {
   const { colors, title } = useContext(ThemeContext)
 
