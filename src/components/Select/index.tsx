@@ -14,6 +14,9 @@ interface SelectProps extends SelectHTMLAttributes<HTMLSelectElement> {
   }>
 }
 
+// -------------------------------------------------
+// Export Function
+// -------------------------------------------------
 const Select: React.FC<SelectProps> = ({ label, name, options, ...rest }) => {
   return (
     <SelectBlock>
