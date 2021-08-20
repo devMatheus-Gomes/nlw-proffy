@@ -5,6 +5,9 @@ import React, { InputHTMLAttributes } from 'react'
 
 import { InputBlock } from './styles'
 
+// -------------------------------------------------
+// Export Function
+// -------------------------------------------------
 interface InputProps extends InputHTMLAttributes<HTMLInputElement> {
   name: string
   label: string
