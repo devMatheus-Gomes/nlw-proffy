@@ -29,6 +29,9 @@ const TeacherItem: React.FC<TeacherItemProps> = ({
     })
   }
 
+  // -------------------------------------------------
+// Export Function
+// -------------------------------------------------
   return (
     <TeacherItemComponent>
       <header>
