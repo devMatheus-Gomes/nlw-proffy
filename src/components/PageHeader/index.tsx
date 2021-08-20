@@ -12,6 +12,9 @@ interface PageHeaderProps {
   description?: string
 }
 
+// -------------------------------------------------
+// Export Function
+// -------------------------------------------------
 const PageHeader: React.FC<PageHeaderProps> = props => {
   return (
     <PageHeaderComponent>
