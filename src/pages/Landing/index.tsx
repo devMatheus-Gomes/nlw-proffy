@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
+// styles
 import {
   PageLanding,
   PageLandingContent,
@@ -10,14 +11,19 @@ import {
   TotalConnections,
 } from './styles'
 
+// images
 import logoImg from '../../assets/images/logo.svg'
 import landingImg from '../../assets/images/landing.svg'
 
+// icones
 import studyIcon from '../../assets/images/icons/study.svg'
 import giveClassesIcon from '../../assets/images/icons/give-classes.svg'
 import purpleHeartIcon from '../../assets/images/icons/purple-heart.svg'
 import api from '../../services/api'
 
+// -------------------------------------------------
+// Export Function
+// -------------------------------------------------
 const Landing: React.FC = () => {
   const [totalConnections, setTotalConnections] = useState(0)
 

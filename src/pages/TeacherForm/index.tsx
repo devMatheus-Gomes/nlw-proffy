@@ -1,17 +1,25 @@
 /* eslint-disable jsx-a11y/label-has-associated-control */
 import React, { useState, FormEvent } from 'react'
-
 import { useHistory } from 'react-router-dom'
+
+// components
 import PageHeader from '../../components/PageHeader'
 import TextArea from '../../components/Textarea'
 import Select from '../../components/Select'
-
-import { Container, ScheduleItem } from './styles'
 import Input from '../../components/Input'
 
+// styles
+import { Container, ScheduleItem } from './styles'
+
+// images
 import warningIcon from '../../assets/images/icons/warning.svg'
+
+// api
 import api from '../../services/api'
 
+// -------------------------------------------------
+// Export Function
+// -------------------------------------------------
 const TeacherForm: React.FC = () => {
   const history = useHistory()
 

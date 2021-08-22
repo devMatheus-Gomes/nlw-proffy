@@ -1,14 +1,22 @@
 /* eslint-disable camelcase */
 /* eslint-disable jsx-a11y/label-has-associated-control */
 import React, { useState, FormEvent } from 'react'
+
+// components
 import PageHeader from '../../components/PageHeader'
 import TeacherItem, { Teacher } from '../../components/TeacherItem'
 import Input from '../../components/Input'
 import Select from '../../components/Select'
 
+// styles
 import { PageTeacherList, SearchTeachers } from './styles'
+
+// api
 import api from '../../services/api'
 
+// -------------------------------------------------
+// Export Function
+// -------------------------------------------------
 const TeacherList: React.FC = () => {
   const [teachers, setTeachers] = useState([])
 

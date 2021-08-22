@@ -3,6 +3,7 @@
 /* eslint-disable jsx-a11y/label-has-associated-control */
 import React, { InputHTMLAttributes } from 'react'
 
+// styles
 import { InputBlock } from './styles'
 
 // -------------------------------------------------
