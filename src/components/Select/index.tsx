@@ -3,8 +3,10 @@
 /* eslint-disable jsx-a11y/label-has-associated-control */
 import React, { SelectHTMLAttributes } from 'react'
 
+// styles
 import { SelectBlock } from './styles'
 
+// interface
 interface SelectProps extends SelectHTMLAttributes<HTMLSelectElement> {
   name: string
   label: string

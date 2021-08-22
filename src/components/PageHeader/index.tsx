@@ -2,11 +2,15 @@
 /* eslint-disable react/destructuring-assignment */
 import React from 'react'
 import { Link } from 'react-router-dom'
+
+// styles
 import { PageHeaderComponent, TopBarContainer, HeaderContent } from './styles'
 
+//
 import logoImg from '../../assets/images/logo.svg'
 import backIcon from '../../assets/images/icons/back.svg'
 
+// interface
 interface PageHeaderProps {
   title: string
   description?: string

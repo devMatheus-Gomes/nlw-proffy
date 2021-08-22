@@ -1,10 +1,13 @@
 import React, { useContext } from 'react'
 import Switch from 'react-switch'
+
+// styles
 import { ThemeContext } from 'styled-components'
 
 // components
 import { Container } from './styles'
 
+// interface
 interface Props {
   toggleTheme(): void
 }
